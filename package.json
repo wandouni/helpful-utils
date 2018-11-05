@@ -1,0 +1,22 @@
+{
+  "name": "helpful-utils",
+  "version": "1.0.0",
+  "description": "一些常用工具方法的集合",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandouni/helpful-utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "wandouni <2539419557@qq.com> (www.wandouni.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wandouni/helpful-utils/issues"
+  },
+  "homepage": "https://github.com/wandouni/helpful-utils#readme"
+}
