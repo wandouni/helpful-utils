@@ -11,7 +11,15 @@
     "url": "git+https://github.com/wandouni/helpful-utils.git"
   },
   "keywords": [
-    "utils"
+    "utils",
+    "null",
+    "undefined",
+    "object",
+    "array",
+    "function",
+    "string",
+    "number",
+    "boolean"
   ],
   "author": "wandouni <2539419557@qq.com> (www.wandouni.com)",
   "license": "ISC",
