@@ -22,3 +22,5 @@ isNull(null) // true
 
 isUndefined(undefined) // true
 ```
+
+[NPM链接](https://www.npmjs.com/package/easy-helpful-utils)
